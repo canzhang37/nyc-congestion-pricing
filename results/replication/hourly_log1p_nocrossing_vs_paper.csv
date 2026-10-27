@@ -1,0 +1,8 @@
+company,period,outcome,zones,target,hours_inside,mean_abs_diff,mean_diff,replicates
+uber,jan,log1p,38 no crossing,uber_jan,24,0.0006,0.0004,True
+lyft,jan,log1p,38 no crossing,lyft_jan,24,0.0013,0.0012,True
+uber,febmay,log1p,38 no crossing,uber_febmay,0,0.0157,-0.0157,False
+lyft,febmay,log1p,38 no crossing,lyft_febmay,0,0.0142,-0.0142,False
+uber,janmay,log1p,38 no crossing,uber_janmay,0,0.0153,-0.0153,False
+lyft,janmay,log1p,38 no crossing,lyft_janmay,0,0.0111,-0.0111,False
+all,janmay,log1p,38 no crossing,all_rh,0,0.0167,-0.0167,False

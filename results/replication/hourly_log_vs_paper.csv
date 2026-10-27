@@ -1,0 +1,8 @@
+company,period,outcome,zones,target,hours_inside,mean_abs_diff,mean_diff,replicates
+uber,jan,log,38,uber_jan,2,0.0131,-0.0131,False
+lyft,jan,log,38,lyft_jan,2,0.0154,0.0154,False
+uber,febmay,log,38,uber_febmay,0,0.0311,-0.0311,False
+lyft,febmay,log,38,lyft_febmay,0,0.0127,-0.0127,False
+uber,janmay,log,38,uber_janmay,0,0.0302,-0.0302,False
+lyft,janmay,log,38,lyft_janmay,6,0.0074,-0.0074,False
+all,janmay,log,38,all_rh,0,0.026,-0.026,False
